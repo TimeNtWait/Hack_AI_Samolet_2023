@@ -23,16 +23,18 @@ https://hacks-ai.ru/hackathons.html?eventId=969091
 - test_dataset.csv - тестовая выборка
 - submission.csv - итоговый сабмит 
 
-
+***
 #### Схема решения:  
-![plan](media/plan.png)
-![clear_dataset](media/clear_dataset.png)
+![plan](media/plan_2.png)
 
+***
+![clear_dataset](media/clear_dataset.png)
+***
 #### Особенности решения:  
 ![killer_features](media/killer_features.png)
-
+***
 #### Модель:  
 ![ensemble](media/ensemble.png)
-
+***
 #### Метрика ROCAUC:
 ![ROCAUC](media/ROCAUC.png) 
