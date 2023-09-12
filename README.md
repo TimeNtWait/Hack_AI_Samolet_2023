@@ -38,3 +38,9 @@ https://hacks-ai.ru/hackathons.html?eventId=969091
 ***
 #### Метрика ROCAUC:
 ![ROCAUC](media/ROCAUC.png) 
+
+
+***
+
+Установка необходимыех пакетов:  
+```pip install -r requirements.txt``` 
