@@ -44,3 +44,7 @@ https://hacks-ai.ru/hackathons.html?eventId=969091
 
 Установка необходимыех пакетов:  
 ```pip install -r requirements.txt``` 
+
+
+***
+![certificate](media/certificate.jpg)
